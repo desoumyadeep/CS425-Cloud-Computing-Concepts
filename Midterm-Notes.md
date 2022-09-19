@@ -573,7 +573,7 @@ O(log(log(N))
 - Supports file transfer through firewalls
 - Periodic ping-pong to continuously refresh neighbor lists
 - List size specified by user at peer: heterogeneity means some peers may have more neighbors
-- Gnutella found to follow power law distribution $P(\#links=L) ~ L^{-k}$ (k is constant)
+- Gnutella found to follow power law distribution $P(links=L) ~ L^{-k}$ (k is constant)
 
 ### Operations
 - Search
